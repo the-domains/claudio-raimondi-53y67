@@ -4,21 +4,21 @@
         <description><![CDATA[HOME]]></description>
         <link>https://thegrid.ai/claudio-raimondi-53y67/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 17:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 17:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/claudio-raimondi-53y67/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Claudio Raimondi - PRESS]]></title>
+            <description><![CDATA[<p>PRESS</p>]]></description>
+            <link>http://press.claudioraimondi.com</link>
+            <guid isPermaLink="false">abcd7561-8c9e-4720-97ac-bc5ffb97d7ab</guid>
+            <pubDate>Sun, 21 Aug 2016 17:53:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Claudio Raimondi - BLOG]]></title>
             <description><![CDATA[<h1>Claudio Raimondi - BLOG</h1>]]></description>
             <link>http://www.claudioraimondi.com</link>
             <guid isPermaLink="false">323219c0-81a4-454b-b997-db0925aa89bd</guid>
             <pubDate>Sun, 21 Aug 2016 17:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claudio Raimondi - PRESS]]></title>
-            <description><![CDATA[<article><h1>Claudio Raimondi - PRESS</h1><p>Intervista a Claudio Raimondi - Head of Trading di eBay Italia, Francia e Spagna che ci parla della nuova iniziativa eBayMODA, volta a proporre un vero e proprio iInspired Shopping e presentata con un evento esclusivo a Milano. www.mediacomunicazione.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a341cff7-cd75-48d2-9030-82ee2f24fcf0.jpg"></article>]]></description>
-            <link>http://press.claudioraimondi.com</link>
-            <guid isPermaLink="false">abcd7561-8c9e-4720-97ac-bc5ffb97d7ab</guid>
-            <pubDate>Sun, 21 Aug 2016 17:39:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
