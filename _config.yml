@@ -12,5 +12,9 @@ color:
     - '#333333'
 layout_spectrum: 0.26326474267989397
 name: Claudio Raimondi
+navigation:
+  - name: BLOG
+    id: 323219c0-81a4-454b-b997-db0925aa89bd
+    type: content
 title: HOME
 description: 'Claudio Raimondi, General Manager at eBay in Italy'
