@@ -21,19 +21,18 @@ metadata:
     domain: www.claudioraimondi.com
   description: ''
   inLanguage: it
-dateModified: '2016-08-21T17:53:24.277Z'
+dateModified: '2016-08-21T17:58:45.302Z'
 title: BLOG
-datePublished: '2016-08-21T17:53:25.003Z'
+datePublished: '2016-08-21T17:58:46.040Z'
 author: []
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-claudio-raimondi-blog.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: blog/index.html
+_type: Blurb
 
 ---
 # BLOG
