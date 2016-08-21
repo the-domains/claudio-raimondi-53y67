@@ -1,3 +1,4 @@
+layout_spectrum: 0.26326474267989397
 typography_spectrum: 0.7670738999731839
 color:
   brandStrength: 0.15207810793071985
@@ -5,19 +6,9 @@ color:
   saturation: 0.11917394702322781
   rhythmicContrast: 0.6603100528009236
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.26326474267989397
-name: test
-navigation:
-  - name: BLOG
-    id: 323219c0-81a4-454b-b997-db0925aa89bd
-    type: content
-  - name: PRESS
-    id: abcd7561-8c9e-4720-97ac-bc5ffb97d7ab
-    type: content
-title: prova
-description: beta
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Claudio Raimondi
