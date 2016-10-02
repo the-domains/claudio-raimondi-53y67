@@ -14,6 +14,7 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c81050-cded-40b7-9b88-98f4ec06835b.jpg
+  appId: '288651771490588'
 layout_spectrum: 0.049721770687028766
 author:
   name: Claudio Raimondi
