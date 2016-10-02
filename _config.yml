@@ -1,14 +1,43 @@
-layout_spectrum: 0.26326474267989397
-typography_spectrum: 0.7670738999731839
+typography_spectrum: 0.365043580532074
 color:
-  brandStrength: 0.15207810793071985
-  lightness: 0.016766835236921906
-  saturation: 0.11917394702322781
-  rhythmicContrast: 0.6603100528009236
+  brandStrength: 0.9525944772176445
+  lightness: 0.28616719925776124
+  saturation: 0.7869168180041015
+  rhythmicContrast: 0.08425871934741735
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: Claudio Raimondi
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c81050-cded-40b7-9b88-98f4ec06835b.jpg
+layout_spectrum: 0.049721770687028766
+author:
+  name: Claudio Raimondi
+  url: 'http://www.ClaudioRaimondi.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3949ffa1-19a9-4a6d-b045-e0981c6739d8.jpg
+name: home
+navigation:
+  - name: blog
+    url: 'http://blog.claudioraimondi.com'
+    type: external
+  - name: press
+    url: 'http://press.claudioraimondi.com'
+    type: external
+  - name: on Twitter
+    url: 'http://www.twitter.com/ClaudioRaimondi'
+    type: external
+  - name: on LinkedIn
+    url: 'https://www.linkedin.com/in/craimondi'
+    type: external
+  - name: Claudio Raimondi
+    url: 'http://claudioraimondi.com/claudio-raimondi'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d957626-56a1-4835-8974-871475477c5b.jpg
+title: CLAUDIO RAIMONDI
+description: General Manager at eBay in Italy
