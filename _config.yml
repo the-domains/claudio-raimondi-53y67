@@ -1,4 +1,3 @@
-layout_spectrum: 0.8880985889118165
 typography_spectrum: 0.08590421499684453
 color:
   brandStrength: 0.7858827461022884
@@ -16,6 +15,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c81050-cded-40b7-9b88-98f4ec06835b.jpg
   appId: '288651771490588'
+layout_spectrum: 0.8880985889118165
 analytics:
   google: UA-5050578-6
 author:
