@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CLAUDIO RAIMONDI]]></title>
+        <description><![CDATA[CLAUDIO RAIMONDI]]></description>
+        <link>http://claudioraimondi.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 07 Oct 2016 17:59:39 GMT</lastBuildDate>
+        <atom:link href="http://claudioraimondi.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 02 Oct 2016 22:15:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[BLOG]]></title>
+            <description><![CDATA[<article><h1>BLOG</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/589045e1-797f-4222-b7b2-e03ae0966097.jpg"></article>]]></description>
+            <link>http://blog.claudioraimondi.com</link>
+            <guid isPermaLink="false">844e2879-dcfc-4887-8d32-f64b560e0779</guid>
+            <pubDate>Sun, 02 Oct 2016 22:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PRESS]]></title>
+            <description><![CDATA[<article><h1>PRESS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f47c0c9124f11c834a9efdcd57eaf1db3ab9fd1f.jpg"></article>]]></description>
+            <link>http://press.claudioraimondi.com</link>
+            <guid isPermaLink="false">de52f487-6da8-48db-b9ea-6d660b4ef452</guid>
+            <pubDate>Sun, 02 Oct 2016 22:15:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
