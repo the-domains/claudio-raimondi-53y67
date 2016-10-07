@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-07T17:59:38.388Z'
+datePublished: '2016-10-07T18:01:37.443Z'
 sourcePath: _posts/2016-08-21-claudio-raimondi.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-07T17:59:37.288Z'
+dateModified: '2016-10-07T18:01:36.192Z'
 title: CLAUDIO RAIMONDI
 publisher: {}
 description: >-
@@ -27,4 +27,4 @@ _type: Blurb
 
 General Manager at eBay in Italy and member of the Advisory Board at Singularity, I am a driven and passionate individual charmed by the psychology behind human relationships. Strong advocate of innovation and lateral thinking, I am fascinated by how these allow individuals and organizations to shape tomorrow's world whilst addressing today's challenges.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzNVl1P2zAUfV5_hZXXQTPGHjbE0ApjUyUYFUJ7QQg58U17wbEj26XLpv73-attmpQN2NDWh0j1Offm-N7j6-zrXGFliKkreJ_QquKYU4NSpJy9vNFSJAe9Hz1Ckg-5FAa-mWSPJBNjqr001fkEStqXapxseYpL4vARKBcZFpE1QpD1c06nDKWiWErBsJ_LMjAFLX30USCQ88gI6BjvQHxZpwSkoCXyegG1okAwUG69pBzCWobKTD5S4-k7797ubr96s72z2wBHnOYOdRt3v4QypkDr5tJqs1IbygeRsdUKOZE55WhqxzxFTkWHcQ5jW26PDzvgkZwKo3z08CLx4Nw-517r_6Mq6MGSjuG3zU6riTRSpyi0QTN1XqM8LaSyHdqO_OtFwDVktO7fVNFhU8Ub-Wez2f1u0tYPA1ebS_vvxSLEzNAYUF5HK9SHLYkcxS0wFJ6JIs0305yEwpolk_K2mdQV5crruJHZBRru6_IZBCjKySkVtlIqCJ1Jdas_SbVs46qJZ2pMBX735zE2YXlK4JDWi7VMUcHai91aOdQXaOWgokCOIf_epY_rWmmDioaO0-GIjKQ1E-QCc0kYEu8ouaIu5T2A21VdYtWvbFCJfTTxCGw9SepAVyDIMPoOyNCeEKR_Syd12Remhj_VegpCU6vVmlXQcEY2Cf0Va0MpHd3P6-UkCSalfFoKPCvicXm83K-S0UIK2KCxC3WF3UXOwp1PLtsIFXCOG2R0kK6KSGmIWBaIQbgn40xsX1EENaEiGkqQbKpR2DlZ-XuQzCbSEfKpUiAMr4mZAGnNAkINceeTYEhT23yMlFBmFpOFDzn-Brmdl3dABjllUNYOuN-rvXlvPw2yD3r7z3HPHyqgLFfTMjtBbQJohZTu3zEHazcTHdWebI4xtMzFsKqkxljcnbjkEq1dbWsfEq5fsQvn7dm_5oiNXxPhBc95XcWXzKOZH7H_1w_af8bl-GEFcMx_smn3vJo3XfgTNr4cJQ" height="1" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzNVk1P20AQPTe_YuVrIS6ihxZR1EBpFQlKhFAvCKG1d5wMrHet3TWpW-W_d7-SOHboBy1Sc4jkeW8mzzNvZ3Ooc4WVIaap4F1Cq4pjTg1KkXL28k5LkRwNvg8ISd7nUhj4apIDksyMqQ7SVOczKOlQqmmy4ymuiMMnoFxmCCJrpSAb5pzWDKWiWErBcJjLMjAFLX32SSCQy8gI6BQfQHzepASkoCXyZgl1skAwUC5eUg4hlqEysw_UePre2zf7u69e7-7tt8AJp7lD3Yu7T0IZU6B1O7R-WakN5aPI2OmknMmccjSNY54jp6LHuISpbbfHxz3wRNbCKJ89vko8uLDfC6_1_1EV9GBJp_DLYafVTBqpUxTaoKmd1yhPC6nshHYj_3aZcAsZbYZ3VXRYrXir_nw-f9xN2vph5HpzbZ9eLFPMHI0B5XV0Un3aishR3AND4Zko0nw7zUkorFkyKe_bRV1TbryOO5ldoeG-L59AgKKcnFNhO6WC0LlU9_qjVKsxrod4oaZU4Dd_HuMQVqcEjmmzjGWKCtYN9nvlUN-gtYOKAjmG-gfXPq9vpS0qWjrOxxMykdZMkAvMJWFIvKPkmrqS9xvcvuoSq2Flk0ocoolHYOdJUke6AkHG0XdAxvaEIP1XOqmrvjQ1_K3WcxCaWq3WrIKGM7JN6M9YW1rp6H5frzZJMCnldSnwoojH5c_lfpGMFlLAFo19qC_sIXKW7nxy2yaogHPcIqOH9FVESkvEqkEMwj0Zd2L3iiKoCRXRUIJktUZh92Tl70Eyn0lHyGulQBjeEDMD0tkFhBrizifBUKax9RgpocwsJgufcvoVcrsvH4CMcsqgbBzwuFcHi8FhGmQfDQ6f454_VkBZruoyO0NtAmiFlO7plIO1m4mO6m42xxhb5nJZVVJjbO5eDLlCG1fbxh8JN684hcvu7t9wxNZ_E-EHnvO6ij-yWPmI3LTn8QNNEdHx" height="1" style=""></iframe>
